@@ -10,5 +10,5 @@
 # ChatGPT Imp Convo
 - https://chatgpt.com/share/67b44b08-b03c-800b-b436-2bc10b4493fd
 
-# Refrenec GitHub Repos
+# Refrence GitHub Repos
 - https://github.com/shubhu-srk/IIT-Gandhinagar-OUTLET-Management-System
