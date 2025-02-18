@@ -6,3 +6,6 @@
 # Project Overview
 - Outlet Management	
 - Track inventory, sales, and loyalty programs.
+
+# ChatGPT Imp Convo
+- https://chatgpt.com/share/67b44b08-b03c-800b-b436-2bc10b4493fd
